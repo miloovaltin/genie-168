@@ -1,0 +1,16 @@
+{
+"name": "genie-168",
+"theme": "genie 168",
+"version": "5.3.1",
+"description": "genie 168 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ระบบออโต้ รับเครดิตฟรี",
+"keywords": [
+"genie 168",
+"genie 168 เครดิตฟรี",
+"genie 168 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/genie-168",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
